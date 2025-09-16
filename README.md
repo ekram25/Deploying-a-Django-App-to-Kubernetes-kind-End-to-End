@@ -15,3 +15,8 @@ The project highlights containerization, Kubernetes fundamentals, rolling update
 - **Learning Focus**: Gain hands-on experience with Kubernetes primitives (Namespaces, Deployments, Services) in a cost-free local setup.
 
 - **Scalability**: The same manifests can be applied to managed clusters (EKS, GKE, AKS) with minimal adjustments.
+- 
+# 2) Install Docker
+Docker is required to build and run container images. Make sure Docker Desktop or Docker Engine is installed and running.
+Verify installation with docker version and docker info — both should return successfully.
+Enable Linux containers (default on Linux).
